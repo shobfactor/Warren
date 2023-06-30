@@ -7,7 +7,7 @@ yfinance==0.1.54
 Pillow==9.3.0
 plotly==4.9.0
 protobuf==3.18.3
-requests==2.24.0
+requests==2.31.0
 rsa==4.7
 scipy==1.4.1
 setuptools-git==1.2
